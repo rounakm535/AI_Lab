@@ -4,12 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d94d7bec-81e8-42db-8b72-5a0dfd468df0" name="Changes" comment="" />
+    <list default="true" id="d94d7bec-81e8-42db-8b72-5a0dfd468df0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_Sessional/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_Sessional/car.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_Sessional/enemy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_Sessional/enemy1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_Sessional/enemy2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_Sessional/enemy3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_Sessional/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_Sessional/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_Sessional/high_score.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_Sessional/high_score.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_Sessional/road.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rounakm535&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rounakm535/AI_Lab.git&quot;,
+    &quot;accountId&quot;: &quot;dce89768-47a8-428c-a5d7-e3d9cc8c2e94&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -18,26 +44,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.BFS.executor": "Run",
-    "Python.DFS.executor": "Run",
-    "Python.aStar.executor": "Run",
-    "Python.demo.executor": "Run",
-    "Python.dfs.executor": "Run",
-    "Python.follower.executor": "Run",
-    "Python.game.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.new.executor": "Run",
-    "Python.new_snake.executor": "Run",
-    "Python.newcar.executor": "Run",
-    "Python.snake_game.executor": "Run",
-    "Python.tictac.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/AI_Lab"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.BFS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DFS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aStar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dfs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.follower.executor&quot;: &quot;Run&quot;,
+    &quot;Python.game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new.executor&quot;: &quot;Run&quot;,
+    &quot;Python.new_snake.executor&quot;: &quot;Run&quot;,
+    &quot;Python.newcar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tictac.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/AI_Lab&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="follower" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AI_Lab" />
